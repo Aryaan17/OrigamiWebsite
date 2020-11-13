@@ -1,0 +1,24 @@
+*{
+    background-color: #004D98;
+    color: gold;
+}
+h1 {
+    color:gold;
+    background-color: red;
+}
+.paraTitle {
+    background-color: red;
+}
+.paraBody {
+    border: solid;
+    border-color: red;
+}
+.grid{
+    border: solid;
+    border-color: red;
+    border-width: thick;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
